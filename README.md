@@ -37,5 +37,8 @@ Additional Charts: You could include more charts or pivot tables to analyze tren
 More Data Analysis: You could add deeper statistical analysis such as correlation, regressions, etc.
 Styling: More customization in PDF layout and design could enhance the look of the report.
 
+OUTPUT;
+       [automated report.pdf](https://github.com/user-attachments/files/18811982/automated.report.pdf)
+
 
 
